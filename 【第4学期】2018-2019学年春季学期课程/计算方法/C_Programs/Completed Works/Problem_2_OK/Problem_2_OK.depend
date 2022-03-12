@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555495303 source:c:\users\administrator\desktop\计算方法-编程实验\c_programs\completed works-冯铮浩\problem_2_ok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
